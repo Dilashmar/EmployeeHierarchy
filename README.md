@@ -37,15 +37,16 @@ The Employee Hierarchy Project is designed to showcase the application of object
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/employee-hierarchy.git
+   git clone https://github.com/Dilashmar/employee-hierarchy.git
 
 1. Navigate the project directory
-
-cd employee-hierarchy
+   ```bash
+    cd employee-hierarchy
 
 2. Compile the project using your preferred C++ compiler
-
-g++ main.cpp HourlyEmployee.cpp SalariedEmployee.cpp Administrator.cpp CommissionEmployee.cpp -o employee_hierarchy
+  ```bash
+  g++ main.cpp HourlyEmployee.cpp SalariedEmployee.cpp Administrator.cpp CommissionEmployee.cpp -o employee_hierarchy
+```
 
 ## Contributing
 
